@@ -1,5 +1,6 @@
 # Acidentes Fatais no  Brasil - Janeiro a Julho/24 - Power BI
-Nesse repositório será explanada as formas de acidentes fatais nos estados, com meta de diminuição de mortes e aumento de pessoas ilesas
+Nesse repositório será explanada as formas de acidentes fatais nos estados, com meta de diminuição de mortes e aumento de pessoas ilesas.
+
 Demonstração 1: Total de Mortes, Feridos e Ilesos, com gráfico de coluna com Mortes e Feridos.
 ![1](https://github.com/user-attachments/assets/122e5c4e-f96f-431d-b076-8b5106d7b91d)
 Demonstração 2: Gráfico de Mortes nos estados brasileiros.
